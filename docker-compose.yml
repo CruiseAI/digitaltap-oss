@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # Pull model on first run:
+    # docker compose exec ollama ollama pull llama3
+
+  digitaltap:
+    build: .
+    depends_on:
+      - ollama
+    environment:
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - DIGITALTAP_MODEL=llama3
+    command: ["scan", "--demo"]
+
+volumes:
+  ollama_data:
