@@ -26,7 +26,7 @@ Digital Tap AI agents continuously analyze your cloud compute infrastructure and
 
 > ⚡ **The Cluster Manager doesn't just detect — it acts.** Dry-run by default, one flag to enforce. Configurable policies, grace periods, exclusion lists.
 
-> **Want the full platform?** [digitaltap.ai](https://digitaltap.ai) adds multi-cloud support, team dashboards, Slack/Teams alerts, and more.
+> **Want the full platform?** [digitaltap.ai](https://digitaltap.ai?utm_source=github&utm_medium=readme&utm_campaign=oss_launch) adds multi-cloud support, team dashboards, Slack/Teams alerts, and more.
 
 ---
 
@@ -311,7 +311,7 @@ Apache License 2.0 — see [LICENSE](LICENSE).
 
 ## Full Platform
 
-This is the open-source core. **[Digital Tap AI](https://digitaltap.ai)** (the full platform) adds:
+This is the open-source core. **[Digital Tap AI](https://digitaltap.ai?utm_source=github&utm_medium=readme&utm_campaign=oss_launch)** (the full platform) adds:
 
 - ⚡ **Auto-remediation** — automatically hibernate, resize, and schedule
 - 🌐 **Multi-cloud** — Databricks, EMR, Dataproc, Synapse, and more
@@ -320,4 +320,4 @@ This is the open-source core. **[Digital Tap AI](https://digitaltap.ai)** (the f
 - 📈 **Historical analytics** — trend analysis and forecasting
 - 🔒 **Enterprise features** — SSO, RBAC, audit logs, SOC2
 
-→ [digitaltap.ai](https://digitaltap.ai)
+→ [digitaltap.ai](https://digitaltap.ai?utm_source=github&utm_medium=readme&utm_campaign=oss_launch)
