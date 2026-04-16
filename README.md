@@ -51,7 +51,7 @@ ollama pull llama3
 pip install digitaltap-ai
 
 # Or from source:
-git clone https://github.com/digitaltap/digitaltap-ai-oss.git
+git clone https://github.com/CruiseAI/digitaltap-oss.git
 cd digitaltap-ai-oss
 pip install -e .
 ```
