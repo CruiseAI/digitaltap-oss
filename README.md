@@ -5,6 +5,9 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-green.svg)](https://www.python.org/downloads/)
 [![Ollama](https://img.shields.io/badge/LLM-Ollama-purple.svg)](https://ollama.ai)
+[![GitHub stars](https://img.shields.io/github/stars/CruiseAI/digitaltap-oss?style=social)](https://github.com/CruiseAI/digitaltap-oss)
+[![GitHub forks](https://img.shields.io/github/forks/CruiseAI/digitaltap-oss?style=social)](https://github.com/CruiseAI/digitaltap-oss/fork)
+[![Hacker News](https://img.shields.io/badge/Hacker%20News-Discussion-ff6600?logo=ycombinator)](https://news.ycombinator.com/item?id=47830355)
 
 <!-- ![Demo](docs/demo.gif) -->
 
@@ -300,6 +303,15 @@ Areas we'd love help with:
 - Dashboard UI
 - Prometheus/Grafana integration
 - Better LLM prompts for analysis
+
+---
+
+## Community
+
+- 💬 [Discuss on Hacker News](https://news.ycombinator.com/item?id=47830355)
+- 🐛 [Report issues](https://github.com/CruiseAI/digitaltap-oss/issues)
+- ⭐ Star this repo if it saves you money — it helps others find it
+- 🐦 Share your savings: tag [@digitaltapai](https://twitter.com/digitaltapai) with your results
 
 ---
 
