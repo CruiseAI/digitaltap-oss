@@ -29,6 +29,8 @@ Digital Tap AI agents continuously analyze your cloud compute infrastructure and
 
 > ⚡ **The Cluster Manager doesn't just detect — it acts.** Dry-run by default, one flag to enforce. Configurable policies, grace periods, exclusion lists.
 
+> **🔍 [Try the live demo](https://digitaltap.ai/dashboard.html?demo=true&utm_source=github&utm_medium=readme&utm_campaign=oss_launch)** — see agents detect idle clusters and calculate savings in real time. No signup required.
+>
 > **Want the full platform?** [digitaltap.ai](https://digitaltap.ai?utm_source=github&utm_medium=readme&utm_campaign=oss_launch) adds multi-cloud support, team dashboards, Slack/Teams alerts, and more.
 
 ---
